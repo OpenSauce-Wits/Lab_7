@@ -1,9 +1,5 @@
 <resources>
-    <string name="app_name">Lab_5</string>
-    <string name="getButton">GET</string>
-    <string name="postButton">POST</string>
-    <string name="getWrongButton">GET WRONG</string>
-    <string name="postWrongButton">POST WRONG</string>
-    <string name="getText">Hello from pravesh</string>
-    <string name="postText">Your username is pravesh</string>
+    <string name="app_name">AALab6</string>
+    <string name="carsList2">[{\"CAR_ID\":\"1\",\"OWNER\":\"TRAVIS\",\"AGE\":\"3\",\"BRAND\":\"SUZUKI\",\"NUMBER\":\"ZXY456GP\"},{\"CAR_ID\":\"2\",\"OWNER\":\"SCOTT\",\"AGE\":\"5\",\"BRAND\":\"SUBARU\",\"NUMBER\":\"XT54CCGP\"},{\"CAR_ID\":\"3\",\"OWNER\":\"ASTRID\",\"AGE\":\"5\",\"BRAND\":\"SMART\",\"NUMBER\":\"CTB492GP\"},{\"CAR_ID\":\"4\",\"OWNER\":\"WERLD\",\"AGE\":\"3\",\"BRAND\":\"SATURN\",\"NUMBER\":\"ZY54BTGP\"}]\n</string>
+    <string name="carsList">[{\"CAR_ID\":\"1\",\"OWNER\":\"TRAVIS\",\"AGE\":\"3\",\"BRAND\":\"SUZUKI\",\"NUMBER\":\"ZXY456GP\"},{\"CAR_ID\":\"2\",\"OWNER\":\"SCOTT\",\"AGE\":\"5\",\"BRAND\":\"SUBARU\",\"NUMBER\":\"XT54CCGP\"},{\"CAR_ID\":\"3\",\"OWNER\":\"ASTRID\",\"AGE\":\"5\",\"BRAND\":\"SMART\",\"NUMBER\":\"CTB492GP\"},{\"CAR_ID\":\"4\",\"OWNER\":\"WERLD\",\"AGE\":\"3\",\"BRAND\":\"SATURN\",\"NUMBER\":\"ZY54BTGP\"}]\n</string>
 </resources>
