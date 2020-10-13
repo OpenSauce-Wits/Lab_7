@@ -1,5 +1,8 @@
 <resources>
-    <string name="app_name">AALab6</string>
-    <string name="carsList2">[{\"CAR_ID\":\"1\",\"OWNER\":\"TRAVIS\",\"AGE\":\"3\",\"BRAND\":\"SUZUKI\",\"NUMBER\":\"ZXY456GP\"},{\"CAR_ID\":\"2\",\"OWNER\":\"SCOTT\",\"AGE\":\"5\",\"BRAND\":\"SUBARU\",\"NUMBER\":\"XT54CCGP\"},{\"CAR_ID\":\"3\",\"OWNER\":\"ASTRID\",\"AGE\":\"5\",\"BRAND\":\"SMART\",\"NUMBER\":\"CTB492GP\"},{\"CAR_ID\":\"4\",\"OWNER\":\"WERLD\",\"AGE\":\"3\",\"BRAND\":\"SATURN\",\"NUMBER\":\"ZY54BTGP\"}]\n</string>
+    <string name="app_name">Lab7</string>
     <string name="carsList">[{\"CAR_ID\":\"1\",\"OWNER\":\"TRAVIS\",\"AGE\":\"3\",\"BRAND\":\"SUZUKI\",\"NUMBER\":\"ZXY456GP\"},{\"CAR_ID\":\"2\",\"OWNER\":\"SCOTT\",\"AGE\":\"5\",\"BRAND\":\"SUBARU\",\"NUMBER\":\"XT54CCGP\"},{\"CAR_ID\":\"3\",\"OWNER\":\"ASTRID\",\"AGE\":\"5\",\"BRAND\":\"SMART\",\"NUMBER\":\"CTB492GP\"},{\"CAR_ID\":\"4\",\"OWNER\":\"WERLD\",\"AGE\":\"3\",\"BRAND\":\"SATURN\",\"NUMBER\":\"ZY54BTGP\"}]\n</string>
+    <string name="car_1">ZXY456GP</string>
+    <string name="car_2">XT54CCGP</string>
+    <string name="car_3">CTB492GP</string>
+    <string name="car_4">ZY54BTGP</string>
 </resources>
