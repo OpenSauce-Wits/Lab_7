@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Lab_5</string>
+    <string name="getButton">GET</string>
+    <string name="postButton">POST</string>
+    <string name="getWrongButton">GET WRONG</string>
+    <string name="postWrongButton">POST WRONG</string>
+    <string name="getText">Hello from pravesh</string>
+    <string name="postText">Your username is pravesh</string>
+</resources>
